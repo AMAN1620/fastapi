@@ -1,0 +1,6 @@
+fastapi[all]
+mysql-connector-python
+passlib[bcrypt]
+pyjwt
+authlib
+python-dotenv
